@@ -29,5 +29,4 @@ describe('template spec', () => {
       .should('be.visible')
       .and('have.text', 'Cadastro realizado com sucesso!')
   });
-
 })
